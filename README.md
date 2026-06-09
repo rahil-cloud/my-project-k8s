@@ -171,6 +171,6 @@ Users
 
 ## Author
 
-**Rahil Shaikh**
+**Rahil**
 
 DevOps & Cloud Enthusiast 🚀
